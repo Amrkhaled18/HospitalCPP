@@ -73,5 +73,5 @@ This project is free to use under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**Amr**  
 [LinkedIn](linkedin.com/in/amr-khaled-66b030226/) | [GitHub](https://github.com/Amrkhaled18)
